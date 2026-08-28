@@ -1,0 +1,7 @@
+# Normalize line endings: LF in repo, native on checkout
+* text=auto eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.docx binary
